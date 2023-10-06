@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 /*
 Variables
 */
@@ -25,7 +26,7 @@ Global Style
   box-sizing: border-box;
 }
 body {
-  font-family: "Segoe UI", sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   background: var(--clr-grey10);
   color: var(--clr-grey1);
   line-height: 1.5;
