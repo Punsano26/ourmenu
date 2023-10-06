@@ -8,11 +8,11 @@ const Category = ({ allCategories, filterItems }) => {
           <button
             className="filter-btn"
             key={index}
-            onClick={() => filterItemsgit}
+            onClick={() => filterItems(category)}
           >
             {category}
           </button>
-        );
+        )
       })}
     </div>
   );

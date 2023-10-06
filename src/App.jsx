@@ -3,7 +3,7 @@ import Category from "./components/Category";
 import Menu from "./components/Menu";
 import data from "./data";
 function App() {
-  const [menuItem, setMenuItem] = useState(data);
+  const [menuItem, setMenuItems] = useState(data);
   const allCategories = [
     "All",
     ...new Set(

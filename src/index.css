@@ -2,13 +2,13 @@
 Variables
 */
 :root {
-  --clr-grey1: hsl(209, 61%, 16%);
+  --clr-grey1: hsl(209, 82%, 63%);
   --clr-grey5: hsl(210, 22%, 49%);
-  --clr-grey10: hsl(210, 36%, 96%);
+  --clr-grey10: hsl(208, 38%, 9%);
   --spacing: 0.1rem;
   --max-width: 1170px;
   --min-width: 62px;
-  --clr-gold: #c59d5f;
+  --clr-gold: gold;
   --clr-white: #ffffff;
   --radius: 0.25rem;
   --transition:all 0.3s linear;
